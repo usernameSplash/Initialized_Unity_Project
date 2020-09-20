@@ -1,8 +1,8 @@
 ﻿{
     "files.exclude": {
         "**/.DS_Store": true,
-        "**/*.sln": true,
-        "**/*.csproj": true,
+        // "**/*.sln": true,
+        // "**/*.csproj": true,
         "**/.git": true,
         "**/.gitmodules": true,
         "**/*.booproj": true,
